@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketApp", "MarketEntity\MarketApp.csproj", "{03E20A1C-49AF-4ADA-90B0-6791D9F19C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapping", "AutoMapping\AutoMapping.csproj", "{0B25A91C-B6EB-458E-A426-2E459C6CDB0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMarketApp_UnitTest", "TestMarketApp_UnitTest\TestMarketApp_UnitTest.csproj", "{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E20A1C-49AF-4ADA-90B0-6791D9F19C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E20A1C-49AF-4ADA-90B0-6791D9F19C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E20A1C-49AF-4ADA-90B0-6791D9F19C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E20A1C-49AF-4ADA-90B0-6791D9F19C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B25A91C-B6EB-458E-A426-2E459C6CDB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B25A91C-B6EB-458E-A426-2E459C6CDB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B25A91C-B6EB-458E-A426-2E459C6CDB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B25A91C-B6EB-458E-A426-2E459C6CDB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

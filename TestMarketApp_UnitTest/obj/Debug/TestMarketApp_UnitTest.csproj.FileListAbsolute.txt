@@ -1,0 +1,28 @@
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\TestMarketApp_UnitTest.dll
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\TestMarketApp_UnitTest.pdb
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\AutoMapping.dll
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\FluentNHibernate.dll
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\MarketEntity.dll
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\NHibernate.dll
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\AutoMapping.pdb
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\MarketEntity.pdb
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\FluentNHibernate.pdb
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\FluentNHibernate.xml
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\bin\Debug\NHibernate.xml
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.dll
+C:\Users\m.mohammadian\Documents\Visual Studio 2013\Projects\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.pdb
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\TestMarketApp_UnitTest.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\TestMarketApp_UnitTest.pdb
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\AutoMapping.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\FluentNHibernate.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\MarketEntity.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\NHibernate.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\AutoMapping.pdb
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\MarketEntity.pdb
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\FluentNHibernate.pdb
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\FluentNHibernate.xml
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\NHibernate.xml
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.pdb
