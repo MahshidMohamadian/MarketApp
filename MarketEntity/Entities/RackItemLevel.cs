@@ -7,13 +7,13 @@ using MarketApp.Entities;
 
 namespace MarketApp.Entities
 {
- public   class RackItemLevel
+ public   class RackItemLevel :BaseEntity
     {
         public RackItemLevel()
         {
-            Id = Guid.NewGuid();
+           
         }
-        public virtual Guid Id { get; set; }
+       
         public virtual int CurrentQuantity { get; set; }
         public virtual int InQuantity { get; set; }
         public virtual int OutQuantity { get; set; }

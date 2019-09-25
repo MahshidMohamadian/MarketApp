@@ -1,0 +1,5 @@
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\Market.Servises\bin\Debug\Market.Servises.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\Market.Servises\bin\Debug\Market.Servises.pdb
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\Market.Servises\obj\Debug\Market.Servises.csprojResolveAssemblyReference.cache
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\Market.Servises\obj\Debug\Market.Servises.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\Market.Servises\obj\Debug\Market.Servises.pdb

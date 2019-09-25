@@ -8,17 +8,15 @@ namespace MarketApp.Entities
 {
     
     
-  public  class Item
+  public  class Item : BaseEntity
   {
       
 
       public Item()
       {
-          Id = Guid.NewGuid();
+         
       }
 
-      public virtual Guid Id { get; set; }
-        
         public virtual string Name { get; set; }
         public virtual Unit Unit { get; set; }
       //..

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapping", "AutoMapping\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMarketApp_UnitTest", "TestMarketApp_UnitTest\TestMarketApp_UnitTest.csproj", "{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Servises", "Market.Servises\Market.Servises.csproj", "{504A4E39-6E88-4FBD-B326-BEB491EB8AAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C4CD2D7-64BE-471D-92FE-B32A29B8ECD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504A4E39-6E88-4FBD-B326-BEB491EB8AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504A4E39-6E88-4FBD-B326-BEB491EB8AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504A4E39-6E88-4FBD-B326-BEB491EB8AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504A4E39-6E88-4FBD-B326-BEB491EB8AAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

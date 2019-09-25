@@ -7,13 +7,13 @@ using MarketApp.Entities;
 
 namespace MarketApp
 {
-     public abstract class OrderItem
+     public abstract class OrderItem : BaseEntity
     {
         public OrderItem()
         {
-            Id = Guid.NewGuid();
+            
         }
-        public virtual Guid Id { get; set; }
+        
         public virtual int NetPrice { get; set; }
         public virtual int Quantity { get; set; }
         public virtual int TotalPrice { get; set; }
