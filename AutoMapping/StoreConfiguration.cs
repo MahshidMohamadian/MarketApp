@@ -15,6 +15,7 @@ namespace AutoMapping
             //return type.BaseType == typeof(BaseEntity);
 
             return typeof(BaseEntity).IsAssignableFrom(type);
+            //return typeof(BaseEntity).IsAssignableFrom(type);
         }
     }
 }
