@@ -76,10 +76,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contract\ItemContract.cs" />
+    <Compile Include="Contract\PurchaseOrderContract.cs" />
+    <Compile Include="Contract\PurchaseOrderItemContract.cs" />
+    <Compile Include="Contract\RackContract.cs" />
+    <Compile Include="Contract\RackItemLevelContract.cs" />
+    <Compile Include="Contract\SaleOrderContract.cs" />
+    <Compile Include="Contract\SaleOrderItemContract.cs" />
     <Compile Include="Entities\BaseEntity.cs" />
     <Compile Include="Entities\Item.cs" />
     <Compile Include="Interfaces\IItemRepository.cs" />
+    <Compile Include="Interfaces\IPurchaseOrderRepository.cs" />
+    <Compile Include="Interfaces\IRackItemLevelRepository.cs" />
+    <Compile Include="Interfaces\IRackRepository.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Interfaces\ISaleOrderRepository.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderItem.cs" />
     <Compile Include="Entities\PurchaseOrderItem.cs" />

@@ -18,6 +18,7 @@ namespace AutoMapping
             mapping.Map(x => x.Limit).Column("Limit");
             mapping.Map(x => x.Location).Column("Location");
             mapping.Map(x => x.Name).Column("Name");
+            mapping.Map(x => x.Code);
             mapping.References(x => x.RackParent).Unique();
         }
     }

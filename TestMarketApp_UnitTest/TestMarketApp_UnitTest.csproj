@@ -64,6 +64,10 @@
       <Project>{0b25a91c-b6eb-458e-a426-2e459c6cdb0b}</Project>
       <Name>AutoMapping</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Market.Servises\Market.Servises.csproj">
+      <Project>{504a4e39-6e88-4fbd-b326-beb491eb8aad}</Project>
+      <Name>Market.Servises</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MarketEntity\MarketApp.csproj">
       <Project>{03e20a1c-49af-4ada-90b0-6791d9f19c18}</Project>
       <Name>MarketApp</Name>

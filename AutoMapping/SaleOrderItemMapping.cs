@@ -18,8 +18,8 @@ namespace AutoMapping
             mapping.Map(x => x.Quantity);
             mapping.Map(x => x.TotalPrice);
             mapping.Map(x => x.UnitPrice);
-            mapping.References(x => x.Item).Unique();
-            mapping.References(x => x.Rack).Unique();
+            mapping.References(x => x.Item);
+            mapping.References(x => x.Rack);
         }
     }
 }

@@ -16,6 +16,7 @@ namespace AutoMapping
         {
             mapping.Id(x => x.Id).Column("ItemId").Not.GeneratedBy.Assigned();
             mapping.Map(x => x.Unit).Column("Unit");
+            mapping.Map(x => x.Code);
             mapping.Map(x => x.Name).Column("Name");
         }
     }

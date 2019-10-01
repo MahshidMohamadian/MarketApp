@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Security.Cryptography.X509Certificates;
 using AutoMapping;
+using Market.Servises;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MarketApp;
 using MarketApp.Entities;
+using MarketApp.Interfaces;
 using NHibernate;
 
 namespace TestMarketApp_UnitTest
@@ -22,9 +24,11 @@ namespace TestMarketApp_UnitTest
                     var ItemId = GetItemId();
                     Item item = session.Get<Item>(ItemId);
                     session.Save(item);
+                    transaction.Commit();
                     var result =session.Get<Item>(item.Id);
                     Assert.IsNotNull(result);
-
+                    
+                  
 
                 }
             }

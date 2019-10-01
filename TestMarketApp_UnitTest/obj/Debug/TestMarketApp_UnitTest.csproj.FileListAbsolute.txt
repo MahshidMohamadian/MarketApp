@@ -26,3 +26,5 @@ C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTe
 C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.csprojResolveAssemblyReference.cache
 C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.dll
 C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\obj\Debug\TestMarketApp_UnitTest.pdb
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\Market.Servises.dll
+C:\Users\m.mohammadian\Downloads\MarketApp-master\MarketApp\TestMarketApp_UnitTest\bin\Debug\Market.Servises.pdb

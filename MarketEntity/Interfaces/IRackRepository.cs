@@ -7,8 +7,7 @@ using MarketApp.Entities;
 
 namespace MarketApp.Interfaces
 {
-    public interface IItemRepository : IRepository<Item>
+  public  interface IRackRepository : IRepository<Rack>
     {
     }
-
 }

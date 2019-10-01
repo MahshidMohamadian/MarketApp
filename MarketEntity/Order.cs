@@ -9,16 +9,14 @@ namespace MarketApp
 {
    public abstract class Order :BaseEntity
    {
-       
+       public virtual int Code { get; set; }
         public virtual DateTime CreationDate { get; set; }
         public virtual string Title { get; set; }
       
 
        public Order()
        {
-         
-          
-           
+
        }
 
         

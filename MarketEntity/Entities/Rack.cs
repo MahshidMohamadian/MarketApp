@@ -15,7 +15,7 @@ namespace MarketApp.Entities
            
        }
 
-       
+       public virtual int Code { get; set; }
         public virtual int Limit { get; set; }
         public virtual string Location { get; set; }
         public virtual string Name { get; set; }

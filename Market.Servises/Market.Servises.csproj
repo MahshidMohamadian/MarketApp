@@ -39,7 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ItemService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseOrderService.cs" />
+    <Compile Include="RackItemLevelService.cs" />
+    <Compile Include="RackService.cs" />
+    <Compile Include="SaleOrderService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MarketEntity\MarketApp.csproj">
+      <Project>{03E20A1C-49AF-4ADA-90B0-6791D9F19C18}</Project>
+      <Name>MarketApp</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
